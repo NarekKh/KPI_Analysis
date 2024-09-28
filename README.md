@@ -1,4 +1,4 @@
-#SNA in Marketing
+
 
 ## Introduction
 
